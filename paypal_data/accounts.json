@@ -1,0 +1,14 @@
+[
+  {
+    "id": "39d10458-bcc4-4340-9725-0fa4598776c1",
+    "userId": "b6a74e37-f04a-4fd0-acbc-5fe77a8ae882",
+    "balance": 50,
+    "currency": "USD"
+  },
+  {
+    "id": "63981a06-5a4e-4efe-92f6-0f0aef5d2bdd",
+    "userId": "ee8c1cdd-3ae8-440d-b142-dba454a487af",
+    "balance": 50,
+    "currency": "USD"
+  }
+]

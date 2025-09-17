@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b6a74e37-f04a-4fd0-acbc-5fe77a8ae882",
+    "name": "Juan",
+    "email": "juan@example.com",
+    "password": "$2a$10$UujSxGnESGjr6iVGbBFf6eBrwFl2kvxNgM9N5.cR3WBN2xduzPX6i",
+    "createdAt": "2025-09-17T00:22:14.552Z"
+  },
+  {
+    "id": "ee8c1cdd-3ae8-440d-b142-dba454a487af",
+    "name": "Maria",
+    "email": "maria@example.com",
+    "password": "$2a$10$LPpyUC7hG/8QnAxAHsh1D.lTXoKTpMovf1kgOsMnUUVeK6A1kEfDi",
+    "createdAt": "2025-09-17T00:31:59.150Z"
+  }
+]

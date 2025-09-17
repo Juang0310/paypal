@@ -1,0 +1,21 @@
+[
+  {
+    "id": "ade51c05-535c-46aa-89b2-6cabfbb51c90",
+    "type": "deposit",
+    "from": null,
+    "to": "39d10458-bcc4-4340-9725-0fa4598776c1",
+    "amount": 100,
+    "currency": "USD",
+    "createdAt": "2025-09-17T00:29:00.158Z"
+  },
+  {
+    "id": "f60f678f-396d-4df0-84db-f3d1a790c4ce",
+    "type": "payment",
+    "from": "39d10458-bcc4-4340-9725-0fa4598776c1",
+    "to": "63981a06-5a4e-4efe-92f6-0f0aef5d2bdd",
+    "amount": 50,
+    "currency": "USD",
+    "createdAt": "2025-09-17T00:33:21.734Z",
+    "status": "completed"
+  }
+]
